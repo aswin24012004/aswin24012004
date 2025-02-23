@@ -7,7 +7,8 @@
 🎯 **Building Scalable Web Apps & Exploring AI Solutions**  
 
 📌 **Check out my projects:** [GitHub Repositories](https://github.com/aswin24012004/)  
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/aswin-c-95896125b/) | [Portfolio](https://aswin24012004.github.io/new-PortFolio/) | [Email](mailto:aswinaswin1w3@gmail.com)| [GFG](https://www.geeksforgeeks.org/user/aswinasprp1/) | [Leet Code](https://leetcode.com/u/aswinaswin1w3/)  
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/aswin-c-95896125b/) | [Portfolio](https://aswin24012004.github.io/new-PortFolio/) | [Email](mailto:aswin.c2401@gmail.com)| [GFG](https://www.geeksforgeeks.org/user/aswinasprp1/) | [Leet Code](https://leetcode.com/u/aswinaswin1w3/)  
+
 
 
 
