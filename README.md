@@ -7,7 +7,7 @@
 🎯 **Building Scalable Web Apps & Exploring AI Solutions**  
 
 📌 **Check out my projects:** [GitHub Repositories](https://github.com/aswin24012004/)  
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/aswin-c-95896125b/) | [Portfolio]([https://aswin24012004.github.io/PortFolio/](https://aswin-c-portfolio-we-slnf.bolt.host/)) | [Email](mailto:aswin.c2401@gmail.com)| [GFG](https://www.geeksforgeeks.org/user/aswinasprp1/) | [Leet Code](https://leetcode.com/u/aswinaswin1w3/)  
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/aswin-c-95896125b/) | [Portfolio](https://aswin-c-portfolio-we-slnf.bolt.host/) | [Email](mailto:aswin.c2401@gmail.com)| [GFG](https://www.geeksforgeeks.org/user/aswinasprp1/) | [Leet Code](https://leetcode.com/u/aswinaswin1w3/)  
 
 
 
@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
 - Exploring **AI/ML** projects
 
 ### 📫 Let's Connect
-- **Portfolio**: [aswin24012004.github.io/PortFolio]([https://aswin24012004.github.io/PortFolio/](https://aswin-c-portfolio-we-slnf.bolt.host/))
+- **Portfolio**: [aswin24012004.github.io/PortFolio](https://aswin-c-portfolio-we-slnf.bolt.host/)
 - **LinkedIn**: [linkedin.com/in/aswin-c-95896125b](https://linkedin.com/aswin-c-95896125b/)
 - **LeetCode**: [leetcode.com/u/aswinaswin1w3](https://leetcode.com/u/aswinaswin1w3/)
 - **Email**: aswin.c2401@gmail.com
