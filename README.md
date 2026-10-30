@@ -1,83 +1,94 @@
-# 👋 Hi, I'm Aswin C  
-🚀 **Full Stack Developer | Java Programmer | AI Enthusiast**  
-
-🔹 **Passionate about:** MERN Stack, Java, Backend Development & Machine Learning  
-🌱 **Currently Learning:** Data Structures & Algorithms, System Design  
-💡 **Tech Stack:** Java | JavaScript | React | Node.js | Express | MongoDB | Python | SQL  
-🎯 **Building Scalable Web Apps & Exploring AI Solutions**  
-
-📌 **Check out my projects:** [GitHub Repositories](https://github.com/aswin24012004/)  
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/aswin-c-95896125b/) | [Portfolio](https://aswin-c-portfolio-we-slnf.bolt.host/) | [Email](mailto:aswin.c2401@gmail.com)| [GFG](https://www.geeksforgeeks.org/user/aswinasprp1/) | [Leet Code](https://leetcode.com/u/aswinaswin1w3/)  
-
-
-
-
-
-<!--- - 👋 Hi, I’m @aswin_B.E.
-- 👀 I’m interested in FullStack_Development
-- 🌱 I’m currently learning ... Problem solving in Java
-- 💞️ 
-- 📫 
-
-aswin24012004/aswin24012004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <div align="center">
 
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0:3b82f6,100:8b5cf6&height=120&section=header&text=Hi%20there%2C%20I'm%20Aswin%20C%20👋&fontSize=40&fontColor=ffffff" alt="Header" />
+# Hi there, I'm Aswin C 👋
 
-  <h2>Full Stack Developer | Java Programmer | AI Enthusiast</h2>
+### Java Full-Stack Developer | React.js | Spring Boot | Problem Solver
 
-  <p>
-    Passionate about building scalable web applications with <strong>MERN Stack</strong>, robust backend systems in <strong>Java</strong>, and exploring <strong>Machine Learning</strong> solutions.
-  </p>
+**Building practical web applications, learning by shipping projects, and strengthening my problem-solving skills.**
 
-  <!-- Typing Animation (optional subtle one) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Currently+learning+DSA+%26+System+Design;Building+scalable+apps+with+Java+%26+React;Exploring+AI+and+Machine+Learning" alt="Typing SVG" />
-
-  <br/>
-
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aswin24012004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin24012004&theme=radical&hide_border=true" alt="Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin24012004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/aswin24012004?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aswin-c-95896125b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aswin-c-portfolio-we-slnf.bolt.host/)
 
 </div>
 
-<br/>
+---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Engineering graduate** interested in **Java backend development and full-stack web applications**. I enjoy turning ideas into usable interfaces, connecting them to REST APIs, and working with relational databases.
+
+- 🔭 **Focus:** Java, Spring Boot, React.js, SQL, and end-to-end web development.
+- 🧩 **Practice:** Data structures, algorithms, Java programming, and coding challenges.
+- 🌱 **Learning:** System design, testing, deployment, and better software engineering practices.
+- 🤝 **Open to:** Entry-level **Java Full-Stack, Backend, and React Developer** opportunities.
+- 📫 **Email:** [aswin.c2401@gmail.com](mailto:aswin.c2401@gmail.com)
+
+## 🛠️ Tech Stack
+
+| Area | Languages, frameworks & tools |
+| --- | --- |
+| **Languages** | Java, JavaScript, SQL, Python (basics) |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, REST APIs |
+| **Databases** | PostgreSQL, MySQL |
+| **Developer Tools** | Git, GitHub, Postman |
+| **Also exploring** | TypeScript, Node.js, Express.js, MongoDB, AI/ML concepts |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,postgres,mysql,git,github,postman&perline=12" alt="Java, Spring, React, JavaScript, HTML, CSS, Tailwind, PostgreSQL, MySQL, Git, GitHub and Postman" />
 </div>
 
-<br/>
+## 📌 Featured Repositories
 
-### 🚀 What I'm Working On
-- Mastering **Data Structures & Algorithms** + **System Design**
-- Building full-stack applications with **MERN** and **Java Spring Boot**
-- Exploring **AI/ML** projects
+These are **public repositories visible on my GitHub profile**. They include hands-on practice and smaller experiments alongside my ongoing full-stack learning.
 
-### 📫 Let's Connect
-- **Portfolio**: [aswin24012004.github.io/PortFolio](https://aswin-c-portfolio-we-slnf.bolt.host/)
-- **LinkedIn**: [linkedin.com/in/aswin-c-95896125b](https://linkedin.com/aswin-c-95896125b/)
-- **LeetCode**: [leetcode.com/u/aswinaswin1w3](https://leetcode.com/u/aswinaswin1w3/)
-- **Email**: aswin.c2401@gmail.com
+| Repository | What it highlights | Language shown on GitHub |
+| --- | --- | --- |
+| [**Problem-Solving**](https://github.com/aswin24012004/Problem-Solving) | Coding practice and problem-solving exercises | Java |
+| [**J-A-V-A-**](https://github.com/aswin24012004/J-A-V-A-) | Java programming practice | Java |
+| [**ARRAY**](https://github.com/aswin24012004/ARRAY) | Array-focused Java practice | Java |
+| [**AI-Phase-1**](https://github.com/aswin24012004/AI-Phase-1) | An AI-themed web experiment | HTML |
+| [**Calculator-**](https://github.com/aswin24012004/Calculator-) | A calculator web project | HTML |
+
+🔎 **Explore more:** [All my public repositories](https://github.com/aswin24012004?tab=repositories)
+
+> **Note:** The featured descriptions are intentionally brief. Visit each repository to inspect the current implementation and its latest changes.
+
+## 🎯 What I'm Working Toward
+
+- **Backend engineering:** Designing maintainable Java and Spring Boot APIs.
+- **Full-stack applications:** Connecting React interfaces with backend services and SQL databases.
+- **Problem solving:** Practicing arrays, hashing, two pointers, sliding windows, binary search, and linked lists.
+- **Delivery skills:** Improving testing, Git workflows, cloud deployment, and documentation.
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/aswin24012004">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=aswin24012004&show_icons=true&hide_border=true&theme=transparent" alt="Aswin's GitHub stats" />
+  </a>
+  <a href="https://github.com/aswin24012004?tab=repositories">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin24012004&layout=compact&hide_border=true&theme=transparent" alt="Languages used across Aswin's public GitHub repositories" />
+  </a>
+</div>
+
+<sub>These cards are generated by a third-party service and may occasionally be unavailable. Repository languages are based on GitHub's detection, not a proficiency ranking.</sub>
+
+## 🔗 Connect & Coding Profiles
+
+- 💼 **LinkedIn:** [aswin-c-95896125b](https://www.linkedin.com/in/aswin-c-95896125b/)
+- 🌐 **Portfolio:** [View my portfolio](https://aswin-c-portfolio-we-slnf.bolt.host/)
+- 🧠 **LeetCode:** [aswinaswin1w3](https://leetcode.com/u/aswinaswin1w3/)
+- 💻 **GeeksforGeeks:** [aswinasprp1](https://www.geeksforgeeks.org/user/aswinasprp1/)
+- 📧 **Email:** [aswin.c2401@gmail.com](mailto:aswin.c2401@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400" alt="Developer Animation"/>
-  <!-- Replace the above src with a better professional GIF if you prefer -->
+
+**Learn • Build • Improve • Repeat**
+
+Thanks for visiting! Explore my repositories to follow my development journey.
+
 </div>
